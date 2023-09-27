@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ccfc49b-4602-4574-a8b1-83919c058c3d" name="Changes" comment="add form.html">
-      <change afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style2.html" afterDir="false" />
+    <list default="true" id="2ccfc49b-4602-4574-a8b1-83919c058c3d" name="Changes" comment="all function made">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nostyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/nostyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style2.html" beforeDir="false" afterPath="$PROJECT_DIR$/style2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695344980192</updated>
       <workItem from="1695344981254" duration="5011000" />
-      <workItem from="1695693183556" duration="2554000" />
+      <workItem from="1695693183556" duration="3453000" />
     </task>
     <task id="LOCAL-00001" summary="First create project">
       <option name="closed" value="true" />
@@ -114,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695657085223</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="all function made">
+      <option name="closed" value="true" />
+      <created>1695822680398</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695822680398</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all function made">
+      <option name="closed" value="true" />
+      <created>1695822723609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695822723609</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First create project" />
     <MESSAGE value="add form.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add form.html" />
+    <MESSAGE value="all function made" />
+    <option name="LAST_COMMIT_MESSAGE" value="all function made" />
   </component>
 </project>
